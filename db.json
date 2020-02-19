@@ -1,4 +1,10 @@
 {
+  "usuarios": [
+    {
+  "usuario":"david",
+  "senha":"123"
+    }
+      ],
   "posts": [
     {
       "id": 1,
